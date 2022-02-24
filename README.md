@@ -14,10 +14,10 @@ Le parcours "apprenant" :bowtie:, globalement, vous le connaissez puisque vous l
 - Connexion (là, on est plus sur le "Sign in / Connexion" :smile:), moins douloureux et qui permet enfin d'accéder au contenu de formation
 - Depuis un "dashboard / tableau de bord" de l'apprenant, l'utilisateur peut s'inscrire à certains curriculums, choisir (ou suivre de force) les thèmes qui l'intéressent, passer des quizzs en fin de "cours", progresser... ou essayer encore.
 
-Mais, au-delà du (de la) moussaillon(ne), il faut imaginer qu'une énorme part de la plateforme, et donc du code lié, va devoir faciliter la gestion quotidienne de la plateforme par un(e) ou plusieurs administrateur(trice)s :sunglasses:, des contenus de formation et - évidemment - des apprenants... Ces emm*****eur(euse)s qui n'arrêtent pas de poser des questions, remonter des bugs ou demander de nouvelles fonctionnalités qu'ils (elles) n'utiliseront pas.
+Mais, au-delà du (de la) moussaillon(ne), il faut imaginer qu'une énorme part de la plateforme, et donc du code lié, va devoir faciliter la gestion quotidienne de la plateforme par un(e) ou plusieurs administrateur(trice)s :sunglasses:, des contenus de formation et - évidemment - des apprenants... Ces emm*****eur(euse)s... Empécheur(se)s de tourner en rond, qui n'arrêtent pas de poser des questions, remonter des bugs ou demander de nouvelles fonctionnalités qu'ils (elles) n'utiliseront pas.
 
 ## 3. Concrètement et techniquement
-Dans cette partie, tu pourras décrire l'aspect technique du projet.
+Une BD postgreSQL parce que c'est quand même un beau et robuste .
 
 ### 3.1. Base de données
 Comment tu vois la base de données de l'application ?

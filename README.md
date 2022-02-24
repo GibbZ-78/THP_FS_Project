@@ -4,17 +4,17 @@
 Le nombre d'organismes de formation, de cursus spécialisés et autres [MOOC / POOC / SPOC...](https://www.journaldunet.com/management/formation/1180044-mooc-cooc-spoc-sooc-quelles-differences/) ont explosé sur la dernière décennie. En parallèle, leur audience a, elle aussi, été multipliée par des chiffres que beaucoup d'autres secteurs rêveraient d'avoir.
 Pourtant, entre les plateformes e-Learning d'entreprise (LMS, LcMS, modules "Training" de SIRH...) et quelques autres options un peu trop fouillées comme [Moodle](https://moodle.org/) (plutôt destiné aux universités & Co, _in fine_), il n'existe que très peu de plateformes en [marque blanche](https://fr.wikipedia.org/wiki/Marque_blanche), encore moins faisant la part belle au _peer-learning_ et à toute la richesse qu'il eut apporter, lorsqu'il est bien utilisé et mis en place.
 
-Du coup, notre projet est [simple, basique](https://www.youtube.com/watch?v=2bjk26RwjyU) (Merci, Orelsan !) : concevoir, instancier, coder et vous proposer une plateforme à la THP... Mais réalisée par des alumni et proposable en marque blanche à des entreprises ou institutions comme THP. 
+Du coup, notre projet est [simple, basique](https://www.youtube.com/watch?v=2bjk26RwjyU) (Merci, Orel' !) : concevoir, instancier, coder et vous proposer une plateforme à la THP... Mais réalisée par des alumni et proposable en marque blanche à des entreprises ou institutions comme THP. 
 Aucune vélléité à la [Iznogoud](https://www.dargaud.com/bd/iznogoud/iznogoud-tome-1-le-grand-vizir-iznogoud-bda5018560) mais une envie forte et partagée de notre _core team_ d'explorer le sujet "plateforme web d'apprentissage" :wink:. 
 
 ## 2. Parcours utilisateur
-Le parcours "apprenant", globalement, vous le connaissez puisque vous le vivez encore présentement : 
+Le parcours "apprenant" :bowtie:, globalement, vous le connaissez puisque vous le vivez encore présentement : 
 - Découverte, via une landign page, des cursus, des thématiques, des modalités pédagogiques et administratives, etc.
 - Inscription (tu sais, le fameux bouton "Sign Up / Inscription" suivi de ce satané formulaire sans fin... :wink:) 
 - Connexion (là, on est plus sur le "Sign in / Connexion" :smile:), moins douloureux et qui permet enfin d'accéder au contenu de formation
-- Depuis un "dashboard / tableau de bord" de l'apprenant, l'utilisateur peut s'inscrire à certains curriculums, choisir (ou suivre de force) les thèmes qui l'intéressent,
+- Depuis un "dashboard / tableau de bord" de l'apprenant, l'utilisateur peut s'inscrire à certains curriculums, choisir (ou suivre de force) les thèmes qui l'intéressent, passer des quizzs en fin de "cours", progresser... ou essayer encore.
 
-Mais, au-delà du moussaillon, il faut imaginer qu'une énorme part de la plateforme, et donc du code lié, va devoir faciliter la gestion quotidienne de la plateforme, des contenus de formation et - évidemment - des apprenants... Ces emm*****eur(euse)s uiq n'arrêtent pas de poser des questions, remonter des bugs ou demander des nouvelles fonctionnalités.
+Mais, au-delà du (de la) moussaillon(ne), il faut imaginer qu'une énorme part de la plateforme, et donc du code lié, va devoir faciliter la gestion quotidienne de la plateforme par un(e) ou plusieurs administrateur(trice)s :sunglasses:, des contenus de formation et - évidemment - des apprenants... Ces emm*****eur(euse)s qui n'arrêtent pas de poser des questions, remonter des bugs ou demander de nouvelles fonctionnalités qu'ils (elles) n'utiliseront pas.
 
 ## 3. Concrètement et techniquement
 Dans cette partie, tu pourras décrire l'aspect technique du projet.

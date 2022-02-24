@@ -30,6 +30,7 @@ Mais, au-delà du (de la) moussaillon(ne), il faut imaginer qu'une énorme part 
   3. En symétrie, côté "back-office", un tableau de configuration et gestion, dédié aux administrateur(trice)s (_e.g._ création de modules de formation, organisation des modules en cursus, gestion des apprenants, de leur progression, de leurs évaluations...) ; en sus, quelques infos utiles au pilotage (ex. nombres d'apprenants par typologie de contenu, par niveau d'avancement, par cursus... Mais aussi, des "données économiques" : chiffre d'affaire global, par cursus...)
 
 ### 3.2. Base de données
+_"Décris ici comment tu vois la base de données de l'application ?"_
 Bien pensée, bien remplie, évidemment : pourquoi cette question :smile: ?
 
 Plus sérieusement, le modèle central n'est pas trop compliqué et devrait vous rappeler quelque chose :
@@ -38,9 +39,9 @@ Plus sérieusement, le modèle central n'est pas trop compliqué et devrait vous
   - d'autres seront juste des "prospects" (_i.e._ infos récupérées via la landing page et que nous ne manquerons pas de spammer avec des offres commerciales bienveillantes :japanese_ogre:)
   - d'autres encore auront un rôle de "référent / enseignant" (à voir comment on l'utilisera par la suite...)
   - enfin, un petit nombre d'élu(e)s bénéficieraient de l'enviable statut d'administrateur(trice) : le God mode de la plateforme, en quelques sortes :sunglasses:.
-- Des contenus pédagogiques structurés en cours / modules / cursus
-- Des inscriptions qui feront le lien entre certains des utilisateurs évoqués et leurs apprentissages
-- A cel s'ajouter sûrement quelques "vérues", du genre _like_ et commentaires à propos des cours
+- Des contenus pédagogiques structurés en cours / modules / cursus ou quelque chose d'approchant
+- Des inscriptions qui feront le lien :link: entre certains des utilisateurs évoqués et leurs apprentissages
+- A cela s'ajouter sûrement quelques "vérues", du genre _like_ et commentaires à propos des cours
 
 ### 3.3. Front
 Déjà détaillé plus haut, en 3.1 : du Bootstrap revampé, du javascript (vanilla), de belles images avec un camaïeu top hype, et le tour est joué !
@@ -50,9 +51,10 @@ Hormis Rails et les quelques gems Ruby / RoR déjà étudiées ("devise" pour ll
 
 ### 3.5. Nos besoins techniques
 En gros, on a déjà un noyau d'équipe (un "seed" :wink:) constitué de :
-- Wilfried PAILLOT, _The Gardener Coder_ (et vice-versa) qui cultive le code, le fait grandir et sait tout faire pousser, en particulier du PHP, du Ruby et du Bootstrap
+- Wilfried PAILLOT, _The Code Gardener_. Il cultive le code comme des orchidées rares, le fait grandir et sait tout faire pousser, en particulier du PHP, du Ruby et du Bootstrap
 - Yassine ROCHD, _The cypher_, notre "homme du chiffre", expert en _Private Equity_, en _Real Estate_ et, à ses heures perdues, body builder émérite et codeur Ruby pour le plaisir
 - David NGUYEN, _The Librarian_, une véritable encyclopédie vivante du code, le [Leo Getz](https://getyarn.io/yarn-clip/5b79e150-5544-465e-b6cc-29b6012f8a43) de la syntaxe ; la seule documentation qui parle et, en même temps, a assez de détente pour te mettre une trempe au volley :soccer: (OK... c'est un ballon de foot mais y'a pas d'emoji "Volley" dans la bibliothèque Markdown :cry:)
+- Jean-Baptiste VIDAL, _The Amstrad Mastermind_, il est tombé dans le code quand il était tout petit (:heart:[CPC 6128](https://fr.wikipedia.org/wiki/Amstrad_CPC_6128):heart:). Depuis, il n'a pas beaucoup grandi et a dû faire une désyntox' :syringe: de 15 ans "no code" :broken_heart:. Depuis quelques semaines, THPix lui a permis de reprendre quelques lampées de prog', _The Librarian_ lui a trouvé 1 ou 2 pages sympas sur [Ruby Guides](https://www.rubyguides.com/2020/03/rails-scaffolding/) et, jusqu'ici, hormis quelques _scaffoldings_ un peu trop sauvages, tout va bien...
 
 ## 4. La version minimaliste mais fonctionnelle qu'il faut avoir livré la première semaine
 Tout ça reste à définir mais on peut imagine, au bout de ces quelques jours, d'avoir, en plus d'une "landing", les pages et fonctionnalités de base de consultation, modification (selon le type de profil), création (idem) et suppression (idem²) des principaux "objets" du modèles : 

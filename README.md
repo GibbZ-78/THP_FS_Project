@@ -20,14 +20,14 @@ Mais, au-delà du (de la) moussaillon(ne), il faut imaginer qu'une énorme part 
 
 ### 3.1. En synthèse
 1. Côté technique : 
-  1. Une BD postgreSQL parce que c'est quand même un DBMS à la fois puissant et robuste :muscle:.
-  2. Un back-end basé sur Rails... Pas le plus robuste des frameworks qu'on ait vu, pour le coup, mais avec du bon quand même et, surtout, une communauté qui l'alimente en gems sans cesse renouvelées et :heavy_plus_sign: / :heavy_minus_sign: maintenues :bug:.
-  3. Un front avec un peu de Bootstrap mais aussi une superbe sur-couche pour ne pas ressembler à toutes les apps Meta.
-  4. Une pincée de Javascript, assurément, pour ajouter de la vie dans la plateforme et éviter les validations un peut trop lourde à base de routage HTTP
+  + Une BD postgreSQL parce que c'est quand même un DBMS à la fois puissant et robuste :muscle:.
+  + Un back-end basé sur Rails... Pas le plus robuste des frameworks qu'on ait vu, pour le coup, mais avec du bon quand même et, surtout, une communauté qui l'alimente en gems sans cesse renouvelées et :heavy_plus_sign: / :heavy_minus_sign: maintenues :bug:.
+  + Un front avec un peu de Bootstrap mais aussi une superbe sur-couche pour ne pas ressembler à toutes les apps Meta.
+  + Une pincée de Javascript, assurément, pour ajouter de la vie dans la plateforme et éviter les validations un peut trop lourde à base de routage HTTP
 2. Sur le pan "business" et processus :
-  1. Quelques exemples de contenus pédagogiques, développés (ou repiqués :shipit:) pour l'occasion
-  2. Un système de souscription (inscription et paiement, le cas échéant) puis de connexion donnant des accès particuliers aux membres
-  3. En symétrie, côté "back-office", un tableau de configuration et gestion, dédié aux administrateur(trice)s (_e.g._ création de modules de formation, organisation des modules en cursus, gestion des apprenants, de leur progression, de leurs évaluations...) ; en sus, quelques infos utiles au pilotage (ex. nombres d'apprenants par typologie de contenu, par niveau d'avancement, par cursus... Mais aussi, des "données économiques" : chiffre d'affaire global, par cursus...)
+  + Quelques exemples de contenus pédagogiques, développés (ou repiqués :shipit:) pour l'occasion
+  + Un système de souscription (inscription et paiement, le cas échéant) puis de connexion donnant des accès particuliers aux membres
+  + En symétrie, côté "back-office", un tableau de configuration et gestion, dédié aux administrateur(trice)s (_e.g._ création de modules de formation, organisation des modules en cursus, gestion des apprenants, de leur progression, de leurs évaluations...) ; en sus, quelques infos utiles au pilotage (ex. nombres d'apprenants par typologie de contenu, par niveau d'avancement, par cursus... Mais aussi, des "données économiques" : chiffre d'affaire global, par cursus...)
 
 ### 3.2. Base de données
 _"Décris ici comment tu vois la base de données de l'application ?"_

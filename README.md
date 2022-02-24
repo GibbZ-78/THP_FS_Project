@@ -51,16 +51,16 @@ Hormis Rails et les quelques gems Ruby / RoR déjà étudiées ("devise" pour ll
 
 ### 3.5. Nos besoins techniques
 En gros, on a déjà un noyau d'équipe (un "seed" :wink:) constitué de :
-  - **Wilfried PAILLOT**, _The Code Gardener_. Il cultive le code comme on chérit un bonzaï :deciduous_tree: ou on bouture des orchidées rares :hibiscus:, le fait grandir :seedling: et sait tout faire pousser :cherry_blossom: :ear_of_rice: :blossom: :palm_tree: :mushroom:, en particulier du PHP, du Ruby et du Bootstrap. La légende dit qu'il peut coder des algos hyper stylés sur des arbres N-aires rien qu'en en effleurant les :fallen_leaf:.
-  - **Yassine ROCHD**, _The cypher_, notre "homme du chiffre", expert en _Private Equity_, en _Real Estate_ et, à ses heures perdues, body builder émérite autant que _daily coder_ en Ruby. Quand il n'est aps dans ses travaux
-  - **David NGUYEN**, _The Librarian_, une véritable encyclopédie vivante du code, le [Leo Getz](https://getyarn.io/yarn-clip/5b79e150-5544-465e-b6cc-29b6012f8a43) de la syntaxe ; la seule documentation qui parle et, en même temps, a assez de détente pour te mettre une trempe au volley :soccer: (OK... c'est un ballon de foot mais y'a pas d'emoji "Volley" dans la bibliothèque Markdown :cry:)
-  - **Jean-Baptiste VIDAL**, _The Amstrad Mastermind_, il est tombé dans le code quand il était tout petit (:heart:[CPC 6128](https://fr.wikipedia.org/wiki/Amstrad_CPC_6128):heart:). Depuis, il n'a pas beaucoup grandi et a dû faire une désyntox' :syringe: de 15 ans "no code" :broken_heart:. Depuis quelques semaines, THPix lui a permis de reprendre quelques lampées de prog', _The Librarian_ lui a trouvé 1 ou 2 pages sympas sur [Ruby Guides](https://www.rubyguides.com/2020/03/rails-scaffolding/) et, jusqu'ici, hormis quelques _scaffoldings_ un peu trop sauvages, tout va bien...
+  - **Wilfried PAILLOT**, _The Code Gardener_. Il cultive le code comme on chérit un bonzaï :deciduous_tree: ou on bouture des orchidées rares :hibiscus:, le fait grandir :seedling: et sait tout faire pousser :cherry_blossom: :ear_of_rice: :blossom: :palm_tree:  :corn: :mushroom:, en particulier du PHP, du Ruby et du Bootstrap. La légende dit qu'il peut coder des algos hyper stylés sur des arbres N-aires rien qu'en en effleurant les :fallen_leaf:.
+  - **Yassine ROCHD**, _The Cypher_. Notre "homme du chiffre", expert en _Private Equity_ :money_with_wings: :rocket: , en _Real Estate_ :house: et, à ses heures perdues, body builder émérite autant que _daily coder_ pour le front desk des Rotschild, JP Morgan & Co. Quand il n'est pas dans les travaux de l'une de ses nombreuses résidences secondaires :house_with_garden:, il se balade dans les couloirs du Corail :train: Paris - Toulouse dont il affectionne la voiture bar(-chart) :bar_chart:.
+  - **David NGUYEN**, _The Librarian_. Une véritable encyclopédie vivante du code :closed_book: :green_book: :blue_book: :orange_book: :notebook: :ledger: :notebook_with_decorative_cover: :books:, le [Leo Getz](https://getyarn.io/yarn-clip/5b79e150-5544-465e-b6cc-29b6012f8a43) de la syntaxe ; la seule documentation qui parle et, en même temps, a assez de détente pour te mettre une trempe au volley :soccer: (OK... c'est un ballon de foot mais y'a pas d'emoji "Volley" dans la bibliothèque Markdown :cry:)
+  - **Jean-Baptiste VIDAL**, _The Amstrad Mastermind_. Il est tombé dans le code quand il était tout petit (:heart:[CPC 6128](https://fr.wikipedia.org/wiki/Amstrad_CPC_6128):heart:). Depuis, il n'a pas beaucoup grandi et a dû faire une désyntox' :syringe: de 15 ans "no code" :broken_heart:. Depuis quelques semaines, THPix lui a permis de reprendre quelques lampées de prog', _The Librarian_ lui a trouvé 1 ou 2 pages sympas sur [Ruby Guides](https://www.rubyguides.com/2020/03/rails-scaffolding/) et, jusqu'ici, hormis quelques _scaffoldings_ un peu trop sauvages, tout va bien...
 
-Une fois ça dit, David jouerait le rôle de PO alors que les 3 autres seraient plutôt sur le pan "code". Du coup, nous recherchons à renforcer l'équipe d':one: ou :two: bonnes âmes qui pourraient complémenter notre Dream Team .
-
+:warning: Une fois ça dit, David jouerait le rôle de PO alors que les 3 autres seraient plutôt sur le pan "code" du projet. 
+Du coup, nous recherchons à renforcer l'équipe d':one: ou :two: bonnes âmes qui pourraient complémenter notre :sparkles: Dream Team :sparkles:, tout simplement :relaxed:.
 
 ## 4. La version minimaliste mais fonctionnelle qu'il faut avoir livré la première semaine
-Tout ça reste à définir mais on peut imagine, au bout de ces quelques jours, d'avoir, en plus d'une "landing", les pages et fonctionnalités de base de consultation, modification (selon le type de profil), création (idem) et suppression (idem²) des principaux "objets" du modèles : 
+Tout ça reste à définir mais on peut imaginer, au bout de ces quelques jours, d'avoir, en plus d'une "landing", les pages et fonctionnalités de base de consultation, modification (selon le type de profil), création (idem) et suppression (idem²) des principaux "objets" du modèles : 
 - les "users" des différents types
 - les cours assemblés en modules et/ou cursus
 - les inscriptions des premiers aux seconds
@@ -70,7 +70,8 @@ Tout ça reste à définir mais on peut imagine, au bout de ces quelques jours, 
 Le tout avec un look acceptable... ça vous irait comme ça ?
 
 ## 5. La version que l'on présentera aux jury
-En plus de finaliser les fonctionnalités et le look du MVP de la semaine 1, on pourrait discuter d'ajouts comme
+En plus de finaliser les fonctionnalités et le look du MVP de la semaine 1, on pourrait discuter d'ajouts comme... **[A compléter]**
 
 ## 6. Notre mentor
 Qui est ton mentor ?
+Alors là... **[A compléter]**

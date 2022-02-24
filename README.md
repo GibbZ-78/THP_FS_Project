@@ -1,5 +1,10 @@
+# NOM DU PROJET (non-définitif)
+
 ## 1. Présentation
-Présente en un ou deux paragraphes ton application. Commence par le besoin : à quel besoin réponds-tu ? Puis décris ton application brièvement de manière compréhensible. Si c'est long chiant et ennuyeux, les gens vont s'arrêter à ce paragraphe. Si c'est trop vague, les gens vont penser que tu ne sais pas ce que tu veux. C'est normal d'être dans le brouillard, mais ce n'est pas normal de ne pas pouvoir décrire son application en un paragraphe. 
+Le nombre d'organisations de formation, de cursus spécialisés et autres [MOOC / POOC / SPOC...](https://www.journaldunet.com/management/formation/1180044-mooc-cooc-spoc-sooc-quelles-differences/) ont explosé sur la dernière décennie. En parallèle, leur audience a, elle aussi, été multipliée par des chiffres que beaucoup d'autres secteurs rêveraient d'avoir.
+Pourtant, entre les plateformes e-Learning d'entreprise (LMS, LcMS, modules "Training" des SIRH...) et quelques autres options un peu trop fouillées comme Moodle (plutôt destiné aux universités & Co, _in fine_), il n'existe que très peu de plateforme en marque blanche, encore moins offrant la part belle au peer-learning et toutes la richesse qu'il apporte.
+
+Du coup, notre projet est simple, basique ()
 
 ## 2. Parcours utilisateur
 Décris le parcours utilisateur de ton application. En terme de produit à quoi elle ressemblera. 

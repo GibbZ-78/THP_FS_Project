@@ -19,15 +19,15 @@ Mais, au-delà du (de la) moussaillon(ne), il faut imaginer qu'une énorme part 
 ## 3. Concrètement et techniquement
 
 ### 3.1. En synthèse
-1. Côté technique : 
-  + Une BD postgreSQL parce que c'est quand même un DBMS à la fois puissant et robuste :muscle:.
-  + Un back-end basé sur Rails... Pas le plus robuste des frameworks qu'on ait vu, pour le coup, mais avec du bon quand même et, surtout, une communauté qui l'alimente en gems sans cesse renouvelées et :heavy_plus_sign: / :heavy_minus_sign: maintenues :bug:.
-  + Un front avec un peu de Bootstrap mais aussi une superbe sur-couche pour ne pas ressembler à toutes les apps Meta.
-  + Une pincée de Javascript, assurément, pour ajouter de la vie dans la plateforme et éviter les validations un peut trop lourde à base de routage HTTP
-2. Sur le pan "business" et processus :
-  + Quelques exemples de contenus pédagogiques, développés (ou repiqués :shipit:) pour l'occasion
-  + Un système de souscription (inscription et paiement, le cas échéant) puis de connexion donnant des accès particuliers aux membres
-  + En symétrie, côté "back-office", un tableau de configuration et gestion, dédié aux administrateur(trice)s (_e.g._ création de modules de formation, organisation des modules en cursus, gestion des apprenants, de leur progression, de leurs évaluations...) ; en sus, quelques infos utiles au pilotage (ex. nombres d'apprenants par typologie de contenu, par niveau d'avancement, par cursus... Mais aussi, des "données économiques" : chiffre d'affaire global, par cursus...)
+1. Côté technique :  
+  + Une BD postgreSQL parce que c'est quand même un DBMS à la fois puissant et robuste :muscle:.  
+  + Un back-end basé sur Rails... Pas le plus robuste des frameworks qu'on ait vu, pour le coup, mais avec du bon quand même et, surtout, une communauté qui l'alimente en gems sans cesse renouvelées et :heavy_plus_sign: / :heavy_minus_sign: maintenues :bug:.  
+  + Un front avec un peu de Bootstrap mais aussi une superbe sur-couche pour ne pas ressembler à toutes les apps Meta.  
+  + Une pincée de Javascript, assurément, pour ajouter de la vie dans la plateforme et éviter les échanges de formulaires et validations un peu _relous_ à base de routage HTTP.
+2. Sur le pan "business" et processus :  
+  + Quelques exemples de contenus pédagogiques, développés (ou repiqués :shipit:) pour l'occasion  
+  + Un système de souscription (inscription et paiement, le cas échéant) puis de connexion donnant des accès particuliers aux membres  
+  + En symétrie, côté "back-office", un tableau de configuration et gestion, dédié aux administrateur(trice)s (_e.g._ création de modules de formation, organisation des modules en cursus, gestion des apprenants, de leur progression, de leurs évaluations...) ; en sus, quelques infos utiles au pilotage (ex. nombres d'apprenants par typologie de contenu, par niveau d'avancement, par cursus... Mais aussi, des "données économiques" : chiffre d'affaire global, par cursus...)  
 
 ### 3.2. Base de données
 _"Décris ici comment tu vois la base de données de l'application ?"_
@@ -51,10 +51,10 @@ Hormis Rails et les quelques gems Ruby / RoR déjà étudiées ("devise" pour ll
 
 ### 3.5. Nos besoins techniques
 En gros, on a déjà un noyau d'équipe (un "seed" :wink:) constitué de :
-- Wilfried PAILLOT, _The Code Gardener_. Il cultive le code comme des orchidées rares, le fait grandir et sait tout faire pousser, en particulier du PHP, du Ruby et du Bootstrap
-- Yassine ROCHD, _The cypher_, notre "homme du chiffre", expert en _Private Equity_, en _Real Estate_ et, à ses heures perdues, body builder émérite et codeur Ruby pour le plaisir
-- David NGUYEN, _The Librarian_, une véritable encyclopédie vivante du code, le [Leo Getz](https://getyarn.io/yarn-clip/5b79e150-5544-465e-b6cc-29b6012f8a43) de la syntaxe ; la seule documentation qui parle et, en même temps, a assez de détente pour te mettre une trempe au volley :soccer: (OK... c'est un ballon de foot mais y'a pas d'emoji "Volley" dans la bibliothèque Markdown :cry:)
-- Jean-Baptiste VIDAL, _The Amstrad Mastermind_, il est tombé dans le code quand il était tout petit (:heart:[CPC 6128](https://fr.wikipedia.org/wiki/Amstrad_CPC_6128):heart:). Depuis, il n'a pas beaucoup grandi et a dû faire une désyntox' :syringe: de 15 ans "no code" :broken_heart:. Depuis quelques semaines, THPix lui a permis de reprendre quelques lampées de prog', _The Librarian_ lui a trouvé 1 ou 2 pages sympas sur [Ruby Guides](https://www.rubyguides.com/2020/03/rails-scaffolding/) et, jusqu'ici, hormis quelques _scaffoldings_ un peu trop sauvages, tout va bien...
+  - **Wilfried PAILLOT**, _The Code Gardener_. Il cultive le code comme des orchidées rares, le fait grandir et sait tout faire pousser, en particulier du PHP, du Ruby et du Bootstrap
+  - **Yassine ROCHD**, _The cypher_, notre "homme du chiffre", expert en _Private Equity_, en _Real Estate_ et, à ses heures perdues, body builder émérite autant que _daily coder_ en Ruby. Quand il n'est aps dans ses travaux
+  - **David NGUYEN**, _The Librarian_, une véritable encyclopédie vivante du code, le [Leo Getz](https://getyarn.io/yarn-clip/5b79e150-5544-465e-b6cc-29b6012f8a43) de la syntaxe ; la seule documentation qui parle et, en même temps, a assez de détente pour te mettre une trempe au volley :soccer: (OK... c'est un ballon de foot mais y'a pas d'emoji "Volley" dans la bibliothèque Markdown :cry:)
+  - **Jean-Baptiste VIDAL**, _The Amstrad Mastermind_, il est tombé dans le code quand il était tout petit (:heart:[CPC 6128](https://fr.wikipedia.org/wiki/Amstrad_CPC_6128):heart:). Depuis, il n'a pas beaucoup grandi et a dû faire une désyntox' :syringe: de 15 ans "no code" :broken_heart:. Depuis quelques semaines, THPix lui a permis de reprendre quelques lampées de prog', _The Librarian_ lui a trouvé 1 ou 2 pages sympas sur [Ruby Guides](https://www.rubyguides.com/2020/03/rails-scaffolding/) et, jusqu'ici, hormis quelques _scaffoldings_ un peu trop sauvages, tout va bien...
 
 ## 4. La version minimaliste mais fonctionnelle qu'il faut avoir livré la première semaine
 Tout ça reste à définir mais on peut imagine, au bout de ces quelques jours, d'avoir, en plus d'une "landing", les pages et fonctionnalités de base de consultation, modification (selon le type de profil), création (idem) et suppression (idem²) des principaux "objets" du modèles : 

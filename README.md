@@ -12,7 +12,7 @@ Le parcours d'un(e) "apprenant(e)" :princess: :bowtie:, globalement, vous le con
 - Découverte, via une landing page assortie d'une recherche à filtres, des thématiques, des cursus liés, des modalités pédagogiques et administratives, etc.
 - Inscription (tu sais, le fameux bouton "Sign Up" suivi de ce satané formulaire hyper long et toujours identique à remplir... :wink:) 
 - Connexion (là, on est plus sur le "Sign in" :smile:, moins douloureux et qui permet enfin d'accéder au contenu de formation)
-- Depuis un "dashboard / tableau de bord" de l'apprenant(e), l'utilisateur(trice) peut s'inscrire à certains curriculums, choisir (ou suivre de force) les thèmes qui l'intéressent, passer des quizz en fin de "cours", progresser... ou essayer encore : 
+- Depuis un "dashboard / tableau de bord" de l'apprenant(e), l'utilisateur(trice) peut s'inscrire à certains curriculums, choisir (ou suivre de force) les thèmes qui l'intéressent, passer des quizz en fin de "cours", progresser... ou essayer encore :  
 [!["Do you want to play again?"](https://img.youtube.com/vi/dqhSpIpOFco/mqdefault.jpg)](https://youtu.be/dqhSpIpOFco?t=18s).
 
 Mais, au-delà du (de la) moussaillon(ne), il faut imaginer qu'une énorme part de la plateforme, et donc du code lié, va devoir faciliter la gestion quotidienne de la plateforme par un(e) ou plusieurs administrateur(trice)s :sunglasses: :neckbeard: : 

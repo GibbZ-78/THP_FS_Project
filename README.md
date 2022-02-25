@@ -1,4 +1,4 @@
-# NOM DU PROJET (non-définitif)
+# NOM DU PROJET (nom non-définitif :wink:)
 
 ## 1. Présentation
 Le nombre d'organismes de formation, de cursus spécialisés et autres [MOOC / POOC / SPOC...](https://www.journaldunet.com/management/formation/1180044-mooc-cooc-spoc-sooc-quelles-differences/) ont explosé sur la dernière décennie. En parallèle, leur audience a, elle aussi, été multipliée par des chiffres que beaucoup d'autres secteurs rêveraient d'avoir.
@@ -41,7 +41,8 @@ Plus sérieusement, le modèle central n'est pas trop compliqué et devrait vous
   - enfin, un petit nombre d'élu(e)s bénéficieraient de l'enviable statut d'administrateur(trice) : le God mode de la plateforme, en quelques sortes :sunglasses:.
 - Des contenus pédagogiques structurés en cours / modules / cursus ou quelque chose d'approchant
 - Des inscriptions qui feront le lien :link: entre certains des utilisateurs évoqués et leurs apprentissages
-- A cela s'ajouter sûrement quelques "vérues", du genre _like_ et commentaires à propos des cours
+- Des évaluations, une pour chaque 'user' sur chaque 'cours' de chaque 'module' de chaque 'curriculum'
+- A cela pourrait sûrement s'ajouter quelques "vérues", du genre _like_ et commentaires à propos des cours
 
 ### 3.3. Front
 Déjà détaillé plus haut, en 3.1 : du Bootstrap revampé, du javascript (vanilla), de belles images avec un camaïeu top hype, et le tour est joué !
@@ -56,7 +57,7 @@ En gros, on a déjà un noyau d'équipe (un "seed" :wink:) constitué de :
   - **David NGUYEN**, _The Librarian_. Une véritable encyclopédie vivante du code :closed_book: :green_book: :blue_book: :orange_book: :notebook: :ledger: :notebook_with_decorative_cover: :books:, le [Leo Getz](https://getyarn.io/yarn-clip/5b79e150-5544-465e-b6cc-29b6012f8a43) de la syntaxe ; la seule documentation qui parle et, en même temps, a assez de détente pour te mettre une trempe au volley :soccer: (OK... c'est un ballon de foot mais y'a pas d'emoji "Volley" dans la bibliothèque Markdown :cry:)
   - **Jean-Baptiste VIDAL**, _The Amstrad Mastermind_. Il est tombé dans le code quand il était tout petit (:heart:[CPC 6128](https://fr.wikipedia.org/wiki/Amstrad_CPC_6128):heart:). Depuis, il n'a pas beaucoup grandi et a dû faire une désyntox' :syringe: de 15 ans "no code" :broken_heart:. Depuis quelques semaines, THPix lui a permis de reprendre quelques lampées de prog', _The Librarian_ lui a trouvé 1 ou 2 pages sympas sur [Ruby Guides](https://www.rubyguides.com/2020/03/rails-scaffolding/) et, jusqu'ici, hormis quelques _scaffoldings_ un peu trop sauvages, tout va bien...
 
-:warning: Une fois ça dit, David jouerait le rôle de PO alors que les 3 autres seraient plutôt sur le pan "code" du projet. 
+:warning: Une fois ça dit, David pourrait jouer le rôle de PO alors que les 3 autres super-héros seraient plutôt sur le pan "code" du projet.
 Du coup, nous recherchons à renforcer l'équipe d':one: ou :two: bonnes âmes qui pourraient complémenter notre :sparkles: Dream Team :sparkles:, tout simplement :relaxed:.
 
 ## 4. La version minimaliste mais fonctionnelle qu'il faut avoir livré la première semaine
@@ -70,7 +71,7 @@ Tout ça reste à définir mais on peut imaginer, au bout de ces quelques jours,
 Le tout avec un look acceptable... ça vous irait comme ça ?
 
 ## 5. La version que l'on présentera aux jury
-En plus de finaliser les fonctionnalités et le look du MVP de la semaine 1, on pourrait discuter d'ajouts comme... **[A compléter]**
+En plus de finaliser les fonctionnalités et le look du MVP de la semaine 1, on pourrait discuter d'ajouts comme : les évaluations, des commentaires et likes, une messagerie interne (instantanée ou asynchrone), de l'authoring... **[A compléter]**
 
 ## 6. Notre mentor
 Qui est ton mentor ?

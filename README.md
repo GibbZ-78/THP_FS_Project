@@ -63,10 +63,10 @@ En gros, on a déjà un noyau d'équipe (un "seed" :wink:) constitué de :
   - **David NGUYEN**, _The Librarian_. Une véritable encyclopédie vivante du code :closed_book: :green_book: :blue_book: :orange_book: :notebook: :ledger: :notebook_with_decorative_cover: :books:, le [Leo Getz](https://getyarn.io/yarn-clip/5b79e150-5544-465e-b6cc-29b6012f8a43) de la syntaxe ; la seule documentation qui parle et, en même temps, a assez de détente pour te mettre une trempe au volley :soccer: (OK... c'est un ballon de foot mais y'a pas d'emoji "Volley" dans la bibliothèque Markdown :cry:)
   - **Jean-Baptiste VIDAL**, _The Amstrad Mastermind_. Il est tombé dans le code quand il était tout petit (:heart:[CPC 6128](https://fr.wikipedia.org/wiki/Amstrad_CPC_6128):heart:). Depuis, il n'a pas beaucoup grandi et a dû faire une désyntox' :syringe: de 15 ans "no code" :broken_heart:. Depuis quelques semaines, THPix, le druide du _peer-learning_ lui a permis de reprendre quelques lampées de prog', _The Librarian_ lui a trouvé 1 ou 2 sites de docs sympas sur [Ruby Guides](https://www.rubyguides.com/2020/03/rails-scaffolding/) et, jusqu'ici, hormis quelques _scaffoldings_ un peu trop sauvages, tout va bien...
 
-:warning: Une fois ça dit, on attend de valider tout ça ensemble mais :
-  - David pourrait jouer le rôle de PO 
-  - alors que les 3 autres super-héros seraient plutôt sur le pan "code" du projet.
-Du coup, nous recherchons à renforcer l'équipe d':one: ou :two: bonnes âmes qui pourraient complémenter notre :sparkles: Dream Team :sparkles:, tout simplement :relaxed:.
+:warning: Une fois ça dit, il faudra voir le "qui fait quoi" dans l'équipe plus précisément mais :
+- On attend de confirmer si David participerait au projet ou pas, sachant qu'il a fait partie de l'aventure THP dès le début
+- Le but est que tout le monde mette bien la main à la patte, sans trop rester sur une spécialité ou un domaine déjà (trop) maîtrisé.
+Du coup, nous envisageons renforcer l'équipe d':one: ou :two: bonnes âmes qui pourraient complémenter notre :sparkles: Dream Team :sparkles:, tout simplement :relaxed:.
 
 ## 4. La version minimaliste mais fonctionnelle qu'il faudra avoir livré la première semaine
 Tout ça reste à préciser mais on peut imaginer, au bout de ces quelques jours, d'avoir, en plus d'une "landing page", les pages et fonctionnalités de base de consultation, modification (selon le type de profil), création (idem) et suppression (idem²) des principaux "objets" du modèles : 
@@ -90,14 +90,14 @@ En plus de finaliser les fonctionnalités et le look du MVP de la semaine 1, on 
 
 - des indicateurs de pilotage et/ou [KPIs](https://fr.wikipedia.org/wiki/Indicateur_cl%C3%A9_de_performance), à destinations des apprenants (ex. temps moyen constaté pour achever un module) et/ou des administrateurs (ex. nombre d'inscrits, etc.).
 
-## 6. Fonctionnalités "super bonus" (en suspens)
+## 6. Fonctionnalités "bonus" (en suspens)
 - Rendre les évaluations plus uniquement individuelles mais "par les pairs" avec des "barrières" adaptées (ex. 80% d'appréciations positives par le ou les correcteurs)
 - Logique de "sessions / promotions" plutôt que d'inscription à la volée et individuelle
 - Ajouts d'autres types d'utilisateurs (_e.g._ mentors) avec des fonctionnalités particulières.
 
 ## 7. Notre mentor
 _"Qui est ton mentor ?"_  
-Alors là... Vu le sujet, s'appuyer sur Félix et/ou Guillaume ne semblerait pas déraisonnable ? A voir si c'est jouable / acceptable côté THP...
+Alors là... Vu le sujet, on pensait humblement s'appuyer sur Félix et/ou Guillaume, voire les deux. Puis on s'est dit qu'ils étaient peut-être un tantinet occupé par autre chose. Nous sommes donc en recherche active :eyes: :telescope: :mag: d'un(e) mentor qui serait, comme nous, intéressé(e) par cette thématique "Learning" !
 
 ## 99. Le mot de la fin
-Que tu sois moussaillon(ne) - candidat(e) ou pas à nous rejoindre -, pirate, corsaire ou membre du staff, nous sommes preneurs de ton avis, tes suggestions, etc. N'hésite donc pas à nous aborder (et pas saborder, hein...) sur Discord !
+Que tu sois moussaillon(ne) - candidat(e) ou pas à nous rejoindre -, pirate, corsaire ou membre du staff, nous sommes preneurs de ton avis, tes suggestions, etc. N'hésite donc pas à nous aborder (et pas saborder, hein...) sur Discord pour nous donner ton avis, ta vision, des idées, etc !

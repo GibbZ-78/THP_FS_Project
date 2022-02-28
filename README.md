@@ -98,3 +98,6 @@ En plus de finaliser les fonctionnalités et le look du MVP de la semaine 1, on 
 ## 7. Notre mentor
 _"Qui est ton mentor ?"_  
 Alors là... Vu le sujet, s'appuyer sur Félix et/ou Guillaume ne semblerait pas déraisonnable ? A voir si c'est jouable / acceptable côté THP...
+
+## 99. Le mot de la fin
+Que tu sois moussaillon(ne) - candidat(e) ou pas à nous rejoindre -, pirate, corsaire ou membre du staff, nous sommes preneurs de ton avis, tes suggestions, etc. N'hésite donc pas à nous aborder (et pas saborder, hein...) sur Discord !

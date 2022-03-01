@@ -1,4 +1,4 @@
-# NOM DU PROJET (nom non-définitif :wink:)
+# LEARN IT! (nom non-définitif :wink:)
 
 ## 1. Présentation
 Sur la dernière décennie, le nombre d'organismes de formation, de cursus spécialisés et autres [MOOC / POOC / SPOC...](https://www.journaldunet.com/management/formation/1180044-mooc-cooc-spoc-sooc-quelles-differences/) a littéralement explosé, mettant le [SOOC](https://www.journaldunet.com/management/formation/1180044-mooc-cooc-spoc-sooc-quelles-differences/) dans le milieu de la formation. En parallèle, leur audience a, elle aussi, été multipliée par des chiffres que beaucoup d'autres secteurs rêveraient de pouvoir afficher.

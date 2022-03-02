@@ -70,8 +70,12 @@ Du coup, nous envisageons renforcer l'équipe d':one: ou :two: bonnes âmes qui 
 
 ## 3.6 Gestion du projet
 Pour la gestion du projet, nous aurons un Slack pour les échanges et un espace de travail Trello sur méthode Kanban.
-Nous travaillerons essentiellement en sprint quotidien avec une répartition des tâches permettant à chacun d'entre nous de toucher à la fois au front et au back de l'application. Certaines d'entres elles nécessiteront de regrouper nos compétences pour s'épauler. Personne ne restera donc bloqué des heures éseulé, nous sommes une équipe!
-Afin de se familiariser avec le code produit par notre collègue, les review de test pour validation se feront en équipe en début de journée avant la définition du sprint.
+
+Nous travaillerons essentiellement en sprint quotidien avec une répartition des tâches permettant à chacun d'entre nous de toucher à la fois au front et au back de l'application. Certaines d'entres elles nécessiteront de regrouper nos compétences pour s'épauler. 
+
+Personne ne restera donc bloqué des heures esseulé, nous sommes une équipe!
+
+Afin de se familiariser avec le code produit par nos collègues, les review de test pour validation se feront en équipe en début de journée avant la définition du sprint.
 
 ## 4. La version minimaliste mais fonctionnelle qu'il faudra avoir livré la première semaine
 Tout ça reste à préciser mais on peut imaginer, au bout de ces quelques jours, d'avoir, en plus d'une "landing page", les pages et fonctionnalités de base de consultation, modification (selon le type de profil), création (idem) et suppression (idem²) des principaux "objets" du modèles : 
@@ -102,10 +106,10 @@ En plus de finaliser les fonctionnalités et le look du MVP de la semaine 1, on 
 
 ## 7. Notre mentor
 _"Qui est ton mentor ?"_  
-Alors là... Vu le sujet, on pensait humblement s'appuyer sur Félix et/ou Guillaume, voire les deux. Puis on s'est dit qu'ils étaient peut-être un tantinet occupé par autre chose. Nous sommes donc en recherche active :eyes: :telescope: :mag: d'un(e) mentor qui serait, comme nous:
-  - intéressé(e) par cette thématique "Learning" 
-  - nous re-cadrer dans notre gestion du projet quand nécessaire
-  - nous apporter toute son expérience / savoir-faire en Ruby/RoR pour nous orienter, nous accompagner et/ou nous corriger lorsque nous nous mettrons à coder avec les pieds! ^^
+Alors là... Vu le sujet, on pensait humblement s'appuyer sur Félix et/ou Guillaume, voire les deux. Puis on s'est dit qu'ils étaient peut-être un tantinet occupé par autre chose. Nous sommes donc en recherche active :eyes: :telescope: :mag: d'un(e) mentor qui :
+  - serait intéressé(e) par cette thématique "Learning" 
+  - saurait nous re-cadrer dans notre gestion du projet quand nécessaire
+  - voudrait nous apporter toute son expérience / savoir-faire en Ruby/RoR pour nous orienter, nous accompagner et/ou nous corriger lorsque nous nous mettrons à coder avec les pieds! ^^
 
 Bien sûr, nous nous adapterons à tes disponibilités pour nos échanges et ne te solliciterons pas à longueur de journée ;)
 

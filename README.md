@@ -68,6 +68,11 @@ En gros, on a déjà un noyau d'équipe (un "seed" :wink:) constitué de :
 - Le but est que tout le monde mette bien la main à la patte, sans trop rester sur une spécialité ou un domaine déjà (trop) maîtrisé.
 Du coup, nous envisageons renforcer l'équipe d':one: ou :two: bonnes âmes qui pourraient complémenter notre :sparkles: Dream Team :sparkles:, tout simplement :relaxed:.
 
+## 3.6 Gestion du projet
+Pour la gestion du projet, nous aurons un Slack pour les échanges et un espace de travail Trello sur méthode Kanban.
+Nous travaillerons essentiellement en sprint quotidien avec une répartition des tâches permettant à chacun d'entre nous de toucher à la fois au front et au back de l'application. Certaines d'entres elles nécessiteront de regrouper nos compétences pour s'épauler. Personne ne restera donc bloqué des heures éseulé, nous sommes une équipe!
+Afin de se familiariser avec le code produit par notre collègue, les review de test pour validation se feront en équipe en début de journée avant la définition du sprint.
+
 ## 4. La version minimaliste mais fonctionnelle qu'il faudra avoir livré la première semaine
 Tout ça reste à préciser mais on peut imaginer, au bout de ces quelques jours, d'avoir, en plus d'une "landing page", les pages et fonctionnalités de base de consultation, modification (selon le type de profil), création (idem) et suppression (idem²) des principaux "objets" du modèles : 
 - quelques pages d'info et d'accroche, lorsqu'on est pas connecté ; par exemple : cursus & tarifs, contact, équipe...
@@ -97,7 +102,19 @@ En plus de finaliser les fonctionnalités et le look du MVP de la semaine 1, on 
 
 ## 7. Notre mentor
 _"Qui est ton mentor ?"_  
-Alors là... Vu le sujet, on pensait humblement s'appuyer sur Félix et/ou Guillaume, voire les deux. Puis on s'est dit qu'ils étaient peut-être un tantinet occupé par autre chose. Nous sommes donc en recherche active :eyes: :telescope: :mag: d'un(e) mentor qui serait, comme nous, intéressé(e) par cette thématique "Learning" !
+Alors là... Vu le sujet, on pensait humblement s'appuyer sur Félix et/ou Guillaume, voire les deux. Puis on s'est dit qu'ils étaient peut-être un tantinet occupé par autre chose. Nous sommes donc en recherche active :eyes: :telescope: :mag: d'un(e) mentor qui serait, comme nous:
+  - intéressé(e) par cette thématique "Learning" 
+  - nous re-cadrer dans notre gestion du projet quand nécessaire
+  - nous apporter toute son expérience / savoir-faire en Ruby/RoR pour nous orienter, nous accompagner et/ou nous corriger lorsque nous nous mettrons à coder avec les pieds! ^^
+
+Bien sûr, nous nous adapterons à tes disponibilités pour nos échanges et ne te solliciterons pas à longueur de journée ;)
+
+Si tu es emballé(e) par ce projet, notre état d'esprit, et que tu aimes transmettre tes connaissances, n'hésites pas à envoyer un mp sur Discord à l'un d'entre nous 
+  - Wilfried PAILLOT discord: Wilfried_P#3138
+  - Jean-Baptiste VIDAL discord: GibbZ#4997
+  - Yassine ROCHD discord: YARO#3338
+
+A très bientôt 
 
 ## 99. Le mot de la fin
 Que tu sois moussaillon(ne) - candidat(e) ou pas à nous rejoindre -, pirate, corsaire ou membre du staff, nous sommes preneurs de ton avis, tes suggestions, etc. N'hésite donc pas à nous aborder (et pas saborder, hein...) sur Discord pour nous donner ton avis, ta vision, des idées, etc !

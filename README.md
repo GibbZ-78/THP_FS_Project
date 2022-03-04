@@ -68,25 +68,24 @@ En gros, on a déjà un noyau d'équipe (un "seed" :wink:) constitué de :
 - Le but est que tout le monde mette bien la main à la patte, sans trop rester sur une spécialité ou un domaine déjà (trop) maîtrisé.
 Du coup, nous envisageons renforcer l'équipe d':one: ou :two: bonnes âmes qui pourraient complémenter notre :sparkles: Dream Team :sparkles:, tout simplement :relaxed:.
 
-## 3.6 Gestion du projet
-Pour la gestion du projet, nous aurons un Slack pour les échanges et un espace de travail Trello sur méthode Kanban.
+### 3.6 Gestion du projet
+Pour la gestion du projet, nous aurons un espace de travail Trello. Discord restera notre outil d'échanges, écrits, visuels et vocaux.
 
-Nous travaillerons essentiellement en sprint quotidien avec une répartition des tâches permettant à chacun d'entre nous de toucher à la fois au front et au back de l'application. Certaines d'entres elles nécessiteront de regrouper nos compétences pour s'épauler. 
+Nous travaillerons essentiellement en sprints quotidiens avec une répartition des tâches permettant à chacun(e) d'entre nous de toucher à la fois au front et au back de l'application, de prendre part à la conception comme à la réalisation. Certaines tâches nécessiteront évidemment aussi que nous épaulions et regroupions nos force / compétences :muscle:. 
+Aucun(e) d'entre nous ne restera donc bloqué(e) des heures, esseulé(e) jusqu'au désespoir : nous sommes avant tout une équipe !
 
-Personne ne restera donc bloqué des heures esseulé, nous sommes une équipe!
-
-Afin de se familiariser avec le code produit par nos collègues, les review de test pour validation se feront en équipe en début de journée avant la définition du sprint.
+Afin de se familiariser avec le code produit par nos collègues, les _reviews_ de test pour validation se feront, en équipe, en début de journée avant la définition du sprint.
 
 ## 4. La version minimaliste mais fonctionnelle qu'il faudra avoir livré la première semaine
 Tout ça reste à préciser mais on peut imaginer, au bout de ces quelques jours, d'avoir, en plus d'une "landing page", les pages et fonctionnalités de base de consultation, modification (selon le type de profil), création (idem) et suppression (idem²) des principaux "objets" du modèles : 
 - quelques pages d'info et d'accroche, lorsqu'on est pas connecté ; par exemple : cursus & tarifs, contact, équipe...
-- les "users" des différents types (apprenants, admins)
+- les utilisateurs des différents types (apprenants, admins)
 - les cours assemblés de façon arborescente, en modules et/ou cursus
 - les sessions / promotions qui regroupent des modules / cours sur une période donnée et rassemblent des users inscrits
 - le système de mails d'information / confirmation qui va avec tout ça
 - un tableau de bord pour :
   - l'apprenant qui résume les modules suivis, les cours réussis, l'accès au catalogue de formation... 
-  - l'administateur qui centralise des informations et chiffres en lien avec les apprenants, les chiffres de participation par cours/modules, 
+  - l'administrateur qui centralise des informations et chiffres en lien avec les apprenants, les chiffres de participation par cours/modules, 
 
 Le tout avec un look acceptable... Alors, ça vous parle ? Partant(e)s ?
 
@@ -106,19 +105,22 @@ En plus de finaliser les fonctionnalités et le look du MVP de la semaine 1, on 
 
 ## 7. Notre mentor
 _"Qui est ton mentor ?"_  
-Alors là... Vu le sujet, on pensait humblement s'appuyer sur Félix et/ou Guillaume, voire les deux. Puis on s'est dit qu'ils étaient peut-être un tantinet occupé par autre chose. Nous sommes donc en recherche active :eyes: :telescope: :mag: d'un(e) mentor qui :
+Alors là... Vu le sujet, on pensait humblement s'appuyer sur Félix et/ou Guillaume, voire les deux. Puis on s'est dit qu'ils étaient peut-être un tantinet occupés par autre chose. Nous sommes donc en recherche active :eyes: :telescope: :mag: d'un(e) mentor qui :
   - serait intéressé(e) par cette thématique "Learning" 
   - saurait nous re-cadrer dans notre gestion du projet quand nécessaire
   - voudrait nous apporter toute son expérience / savoir-faire en Ruby/RoR pour nous orienter, nous accompagner et/ou nous corriger lorsque nous nous mettrons à coder avec les pieds! ^^
 
 Bien sûr, nous nous adapterons à tes disponibilités pour nos échanges et ne te solliciterons pas à longueur de journée ;)
 
-Si tu es emballé(e) par ce projet, notre état d'esprit, et que tu aimes transmettre tes connaissances, n'hésites pas à envoyer un mp sur Discord à l'un d'entre nous 
-  - Wilfried PAILLOT discord: Wilfried_P#3138
-  - Jean-Baptiste VIDAL discord: GibbZ#4997
-  - Yassine ROCHD discord: YARO#3338
+## 8. Contacts
 
-A très bientôt 
+Si tu es emballé(e) par ce projet, notre état d'esprit, et que tu aimes transmettre tes connaissances, n'hésites pas à envoyer un MP sur Discord à l'un(e) d'entre nous 
+  - Wilfried PAILLOT discord: Wilfried_P#3138
+  - Victoria FELY: Victoria Fely#4229
+  - Yassine ROCHD discord: YARO#3338
+  - Jean-Baptiste VIDAL discord: GibbZ#4997
+
+A très bientôt !
 
 ## 99. Le mot de la fin
 Que tu sois moussaillon(ne) - candidat(e) ou pas à nous rejoindre -, pirate, corsaire ou membre du staff, nous sommes preneurs de ton avis, tes suggestions, etc. N'hésite donc pas à nous aborder (et pas saborder, hein...) sur Discord pour nous donner ton avis, ta vision, des idées, etc !

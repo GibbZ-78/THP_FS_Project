@@ -50,10 +50,10 @@ Plus sérieusement, le modèle central n'est pas trop compliqué et devrait vous
 - Des évaluations, une pour chaque 'user' sur chaque 'cours' de chaque 'module' de chaque 'curriculum' (structure non-contractuelle :wink:)
 - A cela pourrait sûrement s'ajouter quelques "vérues", du genre _like_ et commentaires à propos des cours
 
-### 3.3. Front
+### 3.3. Front-end
 Déjà détaillé plus haut, en 3.1 : du Bootstrap revampé, du javascript (vanilla), de belles images avec un camaïeu top hype, une navigation intuitive et le tour est joué !
 
-### 3.4. Backend
+### 3.4. Back-end
 Hormis Rails et les quelques gems Ruby / RoR déjà étudiées ("devise" pour le sessionning, "dotenv-rails" pour gérer d'éventuelles infos sensibles à stocker, "stripe" pour... permettre les paiements via Stripe, quelque chose pour un éventuel _chat_ entre élèves, etc.) on a pas encore achevé de réfléchir jusqu'à quel point on pourrait / voudrait / saurait / aura le temps de _pimper_ notre PLP... Pardon, _Peer Learning Platform_.
 
 ### 3.5. Nos besoins techniques
@@ -68,17 +68,22 @@ En gros, on a déjà un noyau d'équipe (un "seed" :wink:) constitué de :
 - Le but est que tout le monde mette bien la main à la patte, sans trop rester sur une spécialité ou un domaine déjà (trop) maîtrisé.
 Du coup, nous envisageons renforcer l'équipe d':one: ou :two: bonnes âmes qui pourraient complémenter notre :sparkles: Dream Team :sparkles:, tout simplement :relaxed:.
 
-### 3.6 Gestion du projet
-Pour la gestion du projet, nous aurons un espace de travail Trello. Discord restera notre outil d'échanges, écrits, visuels et vocaux.
+### 3.6 Gestion et outillage du projet
+Pour la gestion du projet, nous aurons un espace de travail [Trello](https://trello.com/b/khhD01xp). Discord restera notre outil d'échanges, écrits, visuels et vocaux.
+
+Pour la conception, nous pensons utiliser 2 outils :
+- [Whimsical](https://whimsical.com/) pour les aspects _wireframing_ du site (~site map / tree), modélisation de la base de données, etc.
+- [Figma](https://www.figma.com/file/s41viVKm48SV1SzzFrgvVK/Learn-it---Projet-final?node-id=0%3A1) pour le pan graphique et UI du prototypage
 
 Nous travaillerons essentiellement en sprints quotidiens avec une répartition des tâches permettant à chacun(e) d'entre nous de toucher à la fois au front et au back de l'application, de prendre part à la conception comme à la réalisation. Certaines tâches nécessiteront évidemment aussi que nous épaulions et regroupions nos force / compétences :muscle:. 
-Aucun(e) d'entre nous ne restera donc bloqué(e) des heures, esseulé(e) jusqu'au désespoir : nous sommes avant tout une équipe !
+Aucun(e) d'entre nous ne restera donc bloqué(e) des heures, esseulé(e) jusqu'au désespoir :sob: :weary: : nous sommes avant tout une équipe !
 
 Afin de se familiariser avec le code produit par nos collègues, les _reviews_ de test pour validation se feront, en équipe, en début de journée avant la définition du sprint.
 
 ## 4. La version minimaliste mais fonctionnelle qu'il faudra avoir livré la première semaine
-Tout ça reste à préciser mais on peut imaginer, au bout de ces quelques jours, d'avoir, en plus d'une "landing page", les pages et fonctionnalités de base de consultation, modification (selon le type de profil), création (idem) et suppression (idem²) des principaux "objets" du modèles : 
-- quelques pages d'info et d'accroche, lorsqu'on est pas connecté ; par exemple : cursus & tarifs, contact, équipe...
+Tout ça reste évidemment à préciser à date mais on peut imaginer, au bout de ces quelques jours, d'avoir, en plus d'une "landing page" :
+- les pages et fonctionnalités de base de consultation, modification (selon le type de profil), création (idem) et suppression (idem²) des principaux "objets" du modèles (user, courses...)
+- quelques pages d'info et d'accroche, lorsqu'on est pas connecté ; par exemple : cursus, tarifs & financements, contact, équipe...
 - les utilisateurs des différents types (apprenants, admins)
 - les cours assemblés de façon arborescente, en modules et/ou cursus
 - les sessions / promotions qui regroupent des modules / cours sur une période donnée et rassemblent des users inscrits
@@ -87,15 +92,14 @@ Tout ça reste à préciser mais on peut imaginer, au bout de ces quelques jours
   - l'apprenant qui résume les modules suivis, les cours réussis, l'accès au catalogue de formation... 
   - l'administrateur qui centralise des informations et chiffres en lien avec les apprenants, les chiffres de participation par cours/modules, 
 
-Le tout avec un look acceptable... Alors, ça vous parle ? Partant(e)s ?
+Le tout avec un look acceptable qui ne pique pas trop les yeux... Alors, ça vous parle ? Partant(e)s ?
 
 ## 5. La version que l'on présenterait aux jury
-En plus de finaliser les fonctionnalités et le look du MVP de la semaine 1, on pourrait discuter d'ajouts comme : 
-- une messagerie interne (instantanée type _chat_ ou asynchrone type forum) ; éventuellement aves une logique de messages privés vs. publics
+En plus de finaliser les fonctionnalités et le look du MVP de la semaine n°1, on pourrait discuter d'ajouts comme : 
+- une messagerie interne (instantanée type _chat_ ou asynchrone type forum) ; éventuellement avec une logique de messages privés _vs._ publics
 - des commentaires et/ou likes sur les éléments de cours (avec une possibilité de revue par les administrateurs ?), 
-- des évaluations (individuelles, via des quizz) ; le tout obligeant possiblement à / offrant de repasser le test quelques heures après un raté (ex. <80% de bonnes réponses individuelles)
-- de l'authoring / CMS simple pour saisir le contenu des cours (au format MD, par exemple),
-
+- des évaluations (individuelles, via des quizz) ; le tout obligeant possiblement ou offrant de repasser le test quelques heures après un raté (ex. < 80% de bonnes réponses individuelles)
+- de l'authoring / CMS simple pour saisir le contenu des cours ; au format MD, par exemple
 - des indicateurs de pilotage et/ou [KPIs](https://fr.wikipedia.org/wiki/Indicateur_cl%C3%A9_de_performance), à destinations des apprenants (ex. temps moyen constaté pour achever un module) et/ou des administrateurs (ex. nombre d'inscrits, etc.).
 
 ## 6. Fonctionnalités "bonus" (en suspens)
@@ -108,17 +112,19 @@ _"Qui est ton mentor ?"_
 Alors là... Vu le sujet, on pensait humblement s'appuyer sur Félix et/ou Guillaume, voire les deux. Puis on s'est dit qu'ils étaient peut-être un tantinet occupés par autre chose. Nous sommes donc en recherche active :eyes: :telescope: :mag: d'un(e) mentor qui :
   - serait intéressé(e) par cette thématique "Learning" 
   - saurait nous re-cadrer dans notre gestion du projet quand nécessaire
-  - voudrait nous apporter toute son expérience / savoir-faire en Ruby/RoR pour nous orienter, nous accompagner et/ou nous corriger lorsque nous nous mettrons à coder avec les pieds! ^^
+  - voudrait nous apporter toute son expérience / savoir-faire en Ruby/RoR pour nous orienter, nous accompagner et/ou nous corriger lorsque nous nous mettrons à coder avec les pieds! :sweat:
 
-Bien sûr, nous nous adapterons à tes disponibilités pour nos échanges et ne te solliciterons pas à longueur de journée ;)
+A l'heure où nous écrivons ces lignes, nous avons sollicité [Camille LE LAN - TOSON](https://www.linkedin.com/in/camille-le-lan-toson-106877123/) : croise les doigts avec nous :pray: :four_leaf_clover: !
+  
+Bien sûr, nous nous adapterons aux disponibilités de notre référent(e) pour nos échanges et ne le (la) solliciterons pas à longueur de journée... Ni de soirée :wink:.
 
 ## 8. Contacts
 
 Si tu es emballé(e) par ce projet, notre état d'esprit, et que tu aimes transmettre tes connaissances, n'hésites pas à envoyer un MP sur Discord à l'un(e) d'entre nous 
-  - Wilfried PAILLOT discord: Wilfried_P#3138
-  - Victoria FELY: Victoria Fely#4229
-  - Yassine ROCHD discord: YARO#3338
-  - Jean-Baptiste VIDAL discord: GibbZ#4997
+  - Wilfried PAILLOT | Wilfried_P#3138
+  - Victoria FELY | Victoria Fely#4229
+  - Yassine ROCHD | YARO#3338
+  - Jean-Baptiste VIDAL | GibbZ#4997
 
 A très bientôt !
 

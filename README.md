@@ -107,7 +107,10 @@ En plus de finaliser les fonctionnalités et le look du MVP de la semaine n°1, 
 
 ## 7. Notre mentor
 "Qui est ton mentor ?"
-Alors là... Vu le sujet, on pensait humblement s'appuyer sur Félix et/ou Guillaume, voire les deux. Puis on s'est dit qu'ils étaient peut-être un tantinet occupés par autre chose. Nous sommes donc en recherche active :eyes: :telescope: :mag: d'un(e) mentor qui : - serait intéressé(e) par cette thématique "Learning" - saurait nous re-cadrer dans notre gestion du projet quand nécessaire - voudrait nous apporter toute son expérience / savoir-faire en Ruby/RoR pour nous orienter, nous accompagner et/ou nous corriger lorsque nous nous mettrons à coder avec les pieds! :sweat:
+Alors là... Vu le sujet, on pensait humblement s'appuyer sur Félix et/ou Guillaume, voire les deux. Puis on s'est dit qu'ils étaient peut-être un tantinet occupés par autre chose. Nous sommes donc en recherche active :eyes: :telescope: :mag: d'un(e) mentor qui : 
+- serait intéressé(e) par cette thématique "Learning"  
+- saurait nous re-cadrer dans notre gestion du projet quand nécessaire  
+- voudrait nous apporter toute son expérience / savoir-faire en Ruby/RoR pour nous orienter, nous accompagner et/ou nous corriger lorsque nous nous mettrons à coder avec les pieds! :sweat: :shoe: :high_heel:
 
 Et ça y est : en ce mardi 8 mars 2022, avant que ne sonnent 14 heures, Camille LE LAN - TOSON a solennellement accepté d'être notre mentor ! Croiser les doigts :four_leaf_clover: et prier :pray: porte donc ses fruits :wink: !
 
